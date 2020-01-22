@@ -1,6 +1,6 @@
 /* ===================================================
  * Copyright 2012 Kousen IT, Inc.
- *
+ * Checked by Frank 2020.01.22
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at
